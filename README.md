@@ -17,7 +17,7 @@ The solutions submitted before the deadline will be evaluated our team. We will 
 
 At the end of the project deadline, our solution to the project will be uploaded in the repository of the particular project. 
 
-# Join Us
+# Join QIndia
 Please join QIndia through this [form](https://forms.gle/UCdAN6PUhyFUfAMPA). This will also lead you to a our discord channel where you can iteract with other members and ask any questions related to the projects. 
 
 
