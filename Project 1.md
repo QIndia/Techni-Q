@@ -21,4 +21,4 @@ Hence your task will be to:
 * Construct a trial wave function using an arbitrary parametrized quantum circuit i.e. ansatz based on [single qubit gates](https://qiskit.org/textbook/ch-states/single-qubit-gates.html) and [two qubit rotating gates](https://qiskit.org/textbook/ch-gates/multiple-qubits-entangled-states.html).
 * Find the expectation value of Z ⊗ Z, in the basis of the trial wave function i.e. Expectation Value = ⟨trial state|Z ⊗ Z|trial state⟩
 
- **The Trial state can be obtained by using the [Statevector Simulator](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) after running the parametrized quantum circuit mentioned in step a.**
+ **The Trial state can be obtained by using the [Statevector Simulator](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) after running the parametrized quantum circuit mentioned in the first step i project elaboartion.**
