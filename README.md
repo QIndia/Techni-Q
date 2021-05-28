@@ -1,11 +1,11 @@
 # Techni-Q
 Repository containing bi-weekly hands-on mini-projects in quantum information.
----
+
 # On Going Project
 **Project 1:** Varational Quantum Eigensolver ([Project 1]())
 **Release Date:** June 1, 2021
 **Submission Deadline:** June 14, 2021
----
+
 # The Process
 We will try to release a a new project every two weeks. These are open to everybody and they are just to support quantum learning better. 
 
