@@ -3,7 +3,9 @@ Repository containing bi-weekly hands-on mini-projects in quantum information.
 
 # On Going Project
 **Project 1:** Varational Quantum Eigensolver ([Project 1]())
+/
 **Release Date:** June 1, 2021
+/
 **Submission Deadline:** June 14, 2021
 
 # The Process
