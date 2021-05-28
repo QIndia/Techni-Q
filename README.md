@@ -2,7 +2,7 @@
 Repository containing bi-weekly hands-on mini-projects in quantum information.
 
 ## On Going Project
-**Project 1:** Varational Quantum Eigensolver ([Project 1]())
+**Project 1:** Varational Quantum Eigensolver ([Project 1](https://github.com/qIndia/Techni-Q/blob/main/Project%201.md))
 
 **Release Date:** June 1, 2021
 
