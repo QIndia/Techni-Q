@@ -22,3 +22,9 @@ Hence your task will be to:
 * Find the expectation value of Z ⊗ Z, in the basis of the trial wave function i.e. Expectation Value = ⟨trial state|Z ⊗ Z|trial state⟩
 
  **The Trial state can be obtained by using the [Statevector Simulator](https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html) after running the parametrized quantum circuit mentioned in the first step i project elaboartion.**
+
+## Other Resources
+1. Michał Stęchły's blogpost: https://www.mustythoughts.com/variational-quantum-eigensolver-explained
+2. Frank Zickert's Article: https://towardsdatascience.com/the-variational-quantum-eigensolver-explained-adcbc9659c3a
+3. JavaFXpert's article: https://medium.com/qiskit/the-variational-quantum-eigensolver-43f7718c2747
+4. Prof. K.L. Sebastian's lecture on Variational Methods(the backbone of VQE): https://www.youtube.com/watch?v=T-wXwgS7MuI
