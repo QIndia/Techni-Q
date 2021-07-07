@@ -19,7 +19,7 @@ The solutions submitted before the deadline will be evaluated our team. We will 
 Please join QIndia through this [form](https://forms.gle/UCdAN6PUhyFUfAMPA). This will also lead you to a our discord channel where you can iteract with other members and ask any questions related to the projects. 
 
 ## Previous Projects
-Project 1: [Variational Quantum Eigensolver](https://github.com/qIndia/Techni-Q/blob/main/Project%201.md)(June 1, 2021 - June 14, 2021)
-Project 2: [Levitation of Superconducting Microparticles](https://github.com/qIndia/Techni-Q/blob/main/Project%202.pdf)(June 22, 2021 - July 6, 2021)
+*Project 1: [Variational Quantum Eigensolver](https://github.com/qIndia/Techni-Q/blob/main/Project%201.md)(June 1, 2021 - June 14, 2021)
+*Project 2: [Levitation of Superconducting Microparticles](https://github.com/qIndia/Techni-Q/blob/main/Project%202.pdf)(June 22, 2021 - July 6, 2021)
 
 
