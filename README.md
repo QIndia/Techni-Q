@@ -2,11 +2,11 @@
 Repository containing bi-weekly hands-on mini-projects in quantum information.
 
 ## On Going Project
-**Project 2:** [Levitation of Superconducting Microparticles](https://github.com/qIndia/Techni-Q/blob/main/Project%202.pdf)
+**Project 2:** [Make your own Quantum Simulator](https://github.com/qIndia/Techni-Q/blob/main/Project%203.md)
 
-**Release Date:** June 22, 2021
+**Release Date:** July 08, 2021
 
-**Submission Deadline:** July 6, 2021
+**Submission Deadline:** July 22, 2021
 
 ## The Process
 We will try to release a a new project every two weeks. These are open to everybody and they are just to support quantum learning better. 
