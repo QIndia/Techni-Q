@@ -13,7 +13,7 @@ We will try to release a a new project every two weeks. These are open to everyb
 
 Please submit your project in an easy to read and understand format. The project should be uploaded on your own GitHub public repository the link of which should be shared with us through this [Google Form](https://docs.google.com/forms/d/1YOWoT19a00ldNUWQ5wRAJ9kkBO-eV5hgKmgNSujJSZU/viewform?edit_requested=true).
 
-The solutions submitted before the deadline will be evaluated our team. We will send you the evaluations in 2-3 weeks to the email address you provide in the above mentioned Google Form.
+The solutions submitted before the deadline will be evaluated our team. We will send you the evaluations in a week or so to the email address you provide in the above mentioned Google Form.
 
 At the end of the project deadline, our solution to the project will be uploaded in the repository of the particular project. 
 
