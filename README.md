@@ -22,5 +22,6 @@ Please join QIndia through this [form](https://forms.gle/UCdAN6PUhyFUfAMPA). Thi
 
 ## Previous Projects
 Project 1: [Variational Quantum Eigensolver](https://github.com/qIndia/Techni-Q/blob/main/Project%201.md)(June 1, 2021 - June 14, 2021)
+Project 2: 
 
 
