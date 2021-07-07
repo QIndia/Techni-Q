@@ -15,8 +15,6 @@ Please submit your project in an easy to read and understand format. The project
 
 The solutions submitted before the deadline will be evaluated our team. We will send you the evaluations in a week or so to the email address you provide in the above mentioned Google Form.
 
-At the end of the project deadline, our solution to the project will be uploaded in the repository of the particular project. 
-
 ## Join QIndia
 Please join QIndia through this [form](https://forms.gle/UCdAN6PUhyFUfAMPA). This will also lead you to a our discord channel where you can iteract with other members and ask any questions related to the projects. 
 
